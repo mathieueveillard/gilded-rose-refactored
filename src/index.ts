@@ -62,6 +62,8 @@ export class GildedRose {
           }
         }
       }
+
+      console.log(`${this.items[i].name} -> ${this.items[i].quality}`);
     }
 
     return this.items;
