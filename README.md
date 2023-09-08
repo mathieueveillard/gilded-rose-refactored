@@ -1,4 +1,4 @@
-# gilded-rose
+# gilded-rose-refactored
 
 From [Emily Bache](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 

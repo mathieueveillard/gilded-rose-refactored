@@ -1,5 +1,5 @@
 {
-  "name": "gilded-rose",
+  "name": "gilded-rose-refactored",
   "version": "1.0.0",
   "description": "Starter project for kata (Node, TypeScript, Jest, fast-check, ts-node)",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieueveillard/gilded-rose.git"
+    "url": "git+https://github.com/mathieueveillard/gilded-rose-refactored.git"
   },
   "keywords": [
     "starter",
@@ -39,7 +39,7 @@
   "author": "Mathieu Eveillard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieueveillard/gilded-rose/issues"
+    "url": "https://github.com/mathieueveillard/gilded-rose-refactored/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/gilded-rose#readme"
+  "homepage": "https://github.com/mathieueveillard/gilded-rose-refactored#readme"
 }
